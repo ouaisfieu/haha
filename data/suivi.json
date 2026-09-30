@@ -1,0 +1,326 @@
+{
+ "meta": {
+  "date_arret": "2026-09-30",
+  "genere_le": "2026-09-30",
+  "licence": "CC BY-NC-SA 4.0",
+  "projet": "https://github.com/ouaisfieu/haha"
+ },
+ "data": [
+  {
+   "domaine": "emploi",
+   "mesure": "Limitation des allocations de chômage à deux ans maximum",
+   "statut": "partiel",
+   "detail": "En vigueur depuis le 1er janvier 2026, par vagues jusqu'en juillet 2027. Principe validé par la Cour constitutionnelle le 10 septembre 2026, mais régime transitoire annulé (≈ 100 000 personnes exclues trop tôt).",
+   "sources": [
+    "rtbf-reformes-2026",
+    "rtbf-20260910-cc",
+    "liguedh-20260910"
+   ],
+   "statut_libelle": "Partiellement réalisé / corrigé"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Taux d'emploi de 80 %",
+   "statut": "difficulte",
+   "detail": "72,8 % (20-64 ans) à la mi-2026 ; croissance de l'emploi de 0,4 % en 2025 selon le Conseil supérieur de l'emploi.",
+   "sources": [
+    "businessam-emploi",
+    "lalibre-20260930-cse"
+   ],
+   "statut_libelle": "Objectif en difficulté"
+  },
+  {
+   "domaine": "sante",
+   "mesure": "Remettre 100 000 malades de longue durée au travail d'ici 2029",
+   "statut": "cours",
+   "detail": "Certificats limités, contrôles renforcés, responsabilisation des employeurs ; économie attendue de 1,9 milliard. Résultats non encore mesurables.",
+   "sources": [
+    "rtbf-malades",
+    "belga-20251124"
+   ],
+   "statut_libelle": "En préparation / négociation"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Annualisation du temps de travail",
+   "statut": "cours",
+   "detail": "Inscrite dans l'accord d'été 2026 ; avis des partenaires sociaux attendu à la rentrée. Ligne rouge syndicale.",
+   "sources": [
+    "vrt-20260720-zomer",
+    "dh-20260723-annualisation"
+   ],
+   "statut_libelle": "En préparation / négociation"
+  },
+  {
+   "domaine": "pensions",
+   "mesure": "Réforme des pensions (malus, bonus, fonctionnaires, régimes spéciaux)",
+   "statut": "vote",
+   "detail": "Votée dans la nuit du 28 au 29 mai 2026, entrée en vigueur le 1er janvier 2027. Recours annoncés devant la Cour constitutionnelle.",
+   "sources": [
+    "rtbf-pensions-vote",
+    "lavenir-20260529-pensions"
+   ],
+   "statut_libelle": "Voté, pas encore en vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Indexation plafonnée (« index en cents ») en 2026 et 2028",
+   "statut": "vigueur",
+   "detail": "Au-delà de 4 000 € brut (salaires) et 2 000 € (allocations), seule une indexation forfaitaire est appliquée. En vigueur depuis le 1er juin 2026.",
+   "sources": [
+    "lalibre-20260529-loiprog",
+    "bt-20251124"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Taxe de 10 % sur les plus-values financières",
+   "statut": "vigueur",
+   "detail": "Loi votée les 3-4 avril 2026, applicable aux plus-values réalisées depuis le 1er janvier 2026 (exonération de 10 000 € par an).",
+   "sources": [
+    "oeccbb-plusvalues"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Taxe sur les comptes-titres doublée (0,15 → 0,30 %)",
+   "statut": "vigueur",
+   "detail": "Adoptée dans la loi-programme de mai 2026 ; concerne les comptes de plus d'un million d'euros.",
+   "sources": [
+    "lalibre-20260529-loiprog",
+    "bt-20251124"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Réforme de l'impôt des personnes physiques (1re partie)",
+   "statut": "vote",
+   "detail": "Votée le 10 juillet 2026 ; quotité exemptée portée de 10 910 € à 14 450 € en 2030, puis 15 600 € en 2031 (à confirmer par la législature suivante).",
+   "sources": [
+    "rtbf-20260710-fiscal"
+   ],
+   "statut_libelle": "Voté, pas encore en vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "« Mille euros net de plus par an » pour les travailleurs d'ici 2030",
+   "statut": "annonce",
+   "detail": "Promesse de la déclaration de novembre 2025 ; sa dernière étape tombe après les élections de 2029. Invérifiable à ce stade.",
+   "sources": [
+    "rtbf-20251126"
+   ],
+   "statut_libelle": "Annoncé, non concrétisé"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "TVA à 12 % sur plats à emporter, sport et culture",
+   "statut": "abandonne",
+   "detail": "Retirée le 13 février 2026 après un avis critique du Conseil d'État (≈ 400 M€/an de recettes perdues). Hôtels et campings passés à 12 % au 1er mars 2026.",
+   "sources": [
+    "lavenir-20260213-tva",
+    "kpmg-tva-2026"
+   ],
+   "statut_libelle": "Abandonné"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Taxe d'embarquement doublée à 10 €",
+   "statut": "reporte",
+   "detail": "Ramenée à 7 € pour les vols de 500 à 3 500 km à partir de 2027, après des mois de pression de Ryanair.",
+   "sources": [
+    "lalibre-20260720-ryanair"
+   ],
+   "statut_libelle": "Reporté ou revu à la baisse"
+  },
+  {
+   "domaine": "sante",
+   "mesure": "Loi-cadre sur les soins de santé (suppléments, conventionnement, fraude)",
+   "statut": "partiel",
+   "detail": "Votée le 22 mai 2026, mais les plafonds de suppléments d'honoraires ont été retirés au profit d'une concertation jusqu'en 2027.",
+   "sources": [
+    "lespecialiste-loicadre"
+   ],
+   "statut_libelle": "Partiellement réalisé / corrigé"
+  },
+  {
+   "domaine": "budget",
+   "mesure": "Trajectoire de réduction du déficit (procédure européenne)",
+   "statut": "difficulte",
+   "detail": "Déficit passé de ≈ 4,5 % (2024) à 5,2 % du PIB (2025) ; trois agences ont abaissé la note belge ; 10 milliards supplémentaires recherchés.",
+   "sources": [
+    "eurostat-20260422",
+    "rtbf-moodys",
+    "te-sp-20260424",
+    "bt-20260909"
+   ],
+   "statut_libelle": "Objectif en difficulté"
+  },
+  {
+   "domaine": "defense",
+   "mesure": "Défense à 2 % du PIB",
+   "statut": "vigueur",
+   "detail": "Atteint en 2025 et 2026 ; maintenu jusqu'en 2029, feuille de route vers 3,5 % en 2035.",
+   "sources": [
+    "vrt-en-20260708-nato"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "energie",
+   "mesure": "Maintien et reprise du nucléaire",
+   "statut": "cours",
+   "detail": "Loi de sortie abrogée (mai 2025) ; négociation exclusive État–Engie depuis avril 2026, échéance du 1er octobre susceptible d'être dépassée.",
+   "sources": [
+    "lalibre-20260922-engie"
+   ],
+   "statut_libelle": "En préparation / négociation"
+  },
+  {
+   "domaine": "migration",
+   "mesure": "« Politique migratoire la plus stricte »",
+   "statut": "partiel",
+   "detail": "Demandes d'asile en baisse de 13 % en 2025 ; plusieurs mesures suspendues par la Cour constitutionnelle et le Conseil d'État.",
+   "sources": [
+    "vanbossuyt-2025",
+    "aida-be-2025",
+    "moustique-20260327"
+   ],
+   "statut_libelle": "Partiellement réalisé / corrigé"
+  },
+  {
+   "domaine": "defense",
+   "mesure": "Reconnaissance de l'État de Palestine",
+   "statut": "annonce",
+   "detail": "Annoncée sous conditions en septembre 2025 ; arrêté royal non adopté, la condition relative au Hamas étant jugée non remplie.",
+   "sources": [
+    "rtbf-onu-palestine",
+    "lavenir-20260128-palestine"
+   ],
+   "statut_libelle": "Annoncé, non concrétisé"
+  },
+  {
+   "domaine": "institutions",
+   "mesure": "Suppression du Sénat",
+   "statut": "annonce",
+   "detail": "Prévue après les élections de 2029 ; suppose une révision de la Constitution.",
+   "sources": [
+    "circ-elberhoumi"
+   ],
+   "statut_libelle": "Annoncé, non concrétisé"
+  },
+  {
+   "domaine": "justice",
+   "mesure": "Résorber la surpopulation carcérale",
+   "statut": "difficulte",
+   "detail": "Record de 763 détenus dormant au sol (2026) ; rapport alarmant du Comité européen pour la prévention de la torture.",
+   "sources": [
+    "rtbf-763-sol",
+    "rtbf-cpt-prisons"
+   ],
+   "statut_libelle": "Objectif en difficulté"
+  },
+  {
+   "domaine": "justice",
+   "mesure": "Fusion des zones de police bruxelloises",
+   "statut": "annonce",
+   "detail": "Relancée par le ministre de l'Intérieur en août 2026 après une série de fusillades.",
+   "sources": [
+    "rtbf-20260827-quintin"
+   ],
+   "statut_libelle": "Annoncé, non concrétisé"
+  },
+  {
+   "domaine": "migration",
+   "mesure": "Nationalité belge : droit d'enregistrement porté de 150 € à 1 000 €",
+   "statut": "vote",
+   "detail": "Loi-programme adoptée le 18 juillet 2025 ; montant indexé chaque année. Pour la ministre, l'accès à la nationalité exige « un sens des responsabilités, y compris financier » (traduction).",
+   "sources": [
+    "emn-20250718-nationalite"
+   ],
+   "statut_libelle": "Voté, pas encore en vigueur"
+  },
+  {
+   "domaine": "migration",
+   "mesure": "Regroupement familial durci",
+   "statut": "vote",
+   "detail": "Revenu exigé d'au moins 110 % du revenu minimum mensuel moyen garanti (2 323 €), majoré de 10 % par membre de la famille ; âge minimum du regroupant porté de 18 à 21 ans ; délai de grâce des réfugiés réduit à six mois ; deux ans d'attente pour la protection subsidiaire. Voté par 107 voix contre 38 ; recours annoncés.",
+   "sources": [
+    "emn-20250718-regroupement"
+   ],
+   "statut_libelle": "Voté, pas encore en vigueur"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Travail de nuit autorisé dans la distribution et l'e-commerce",
+   "statut": "vigueur",
+   "detail": "Depuis le 1er juin 2026, le travail entre 20 h et 6 h n'y est plus interdit ; pour les nouveaux engagés, la prime de nuit ne commence plus qu'à 23 h.",
+   "sources": [
+    "synova-20260504-travail"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Préavis de licenciement plafonné à 52 semaines",
+   "statut": "vigueur",
+   "detail": "Pour les nouveaux contrats, depuis le 1er juin 2026.",
+   "sources": [
+    "synova-20260504-travail"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Temps partiel minimum ramené à un dixième d'un temps plein",
+   "statut": "vigueur",
+   "detail": "Au lieu d'un tiers, depuis le 1er juin 2026.",
+   "sources": [
+    "synova-20260504-travail"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "360 heures supplémentaires volontaires par an",
+   "statut": "vigueur",
+   "detail": "Depuis le 1er avril 2026 ; les 240 premières sont exonérées d'impôt et de cotisations sociales.",
+   "sources": [
+    "synova-20260504-travail"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "emploi",
+   "mesure": "Jobs étudiants : 650 heures par an, dès 15 ans",
+   "statut": "vigueur",
+   "detail": "Plafond relevé de 600 à 650 heures ; accès dès 15 ans depuis mai 2026. Le délégué général aux droits de l'enfant et des associations de parents jugent le travail à 15 ans incompatible avec l'école.",
+   "sources": [
+    "dh-20260907-etudiants"
+   ],
+   "statut_libelle": "En vigueur"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Droits d'auteur : régime revu",
+   "statut": "partiel",
+   "detail": "Les développeurs informatiques réintègrent le régime en 2026, mais la déduction forfaitaire de frais est réservée aux artistes disposant d'une attestation : pour les développeurs, l'avantage est quasiment divisé par deux.",
+   "sources": [
+    "fftf-20260325-auteur"
+   ],
+   "statut_libelle": "Partiellement réalisé / corrigé"
+  },
+  {
+   "domaine": "fiscalite",
+   "mesure": "Dividendes VVPRbis et réserve de liquidation plus taxés",
+   "statut": "vote",
+   "detail": "Taux VVPRbis porté de 15 % à 18 %, y compris sur les bénéfices passés ; réserves de liquidation constituées à partir de l'exercice 2026 taxées à 9,8 %. Plein effet pas avant 2029.",
+   "sources": [
+    "rsm-vvprbis"
+   ],
+   "statut_libelle": "Voté, pas encore en vigueur"
+  }
+ ]
+}

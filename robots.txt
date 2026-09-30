@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ouaisfieu.github.io/haha/sitemap.xml

@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "date_arret": "2026-09-30",
+  "genere_le": "2026-09-30",
+  "licence": "CC BY-NC-SA 4.0",
+  "projet": "https://github.com/ouaisfieu/haha"
+ },
+ "data": [
+  {
+   "qui": "Accord de gouvernement / N-VA",
+   "quand": "2025-01-31",
+   "verdict": "dementie",
+   "promesse": "Remettre les finances publiques sur la trajectoire européenne : le « gouvernement du redressement ».",
+   "realite": "Le déficit passe d'environ 4,5 % du PIB (2024) à 5,2 % (2025), parmi les pires de l'UE ; trois agences dégradent la note ; l'effort à trouver grimpe de 4,9 à 7,7 puis 10 milliards.",
+   "sources": [
+    "rtbf-accord-2025",
+    "euronews-20251124",
+    "eurostat-20260422",
+    "rtbf-moodys",
+    "vrt-20260612"
+   ],
+   "verdict_libelle": "Démentie par les faits"
+  },
+  {
+   "qui": "Bart De Wever",
+   "quand": "2025-11-26",
+   "verdict": "postdate",
+   "promesse": "« 1 000 euros net supplémentaires par an » pour les travailleurs d'ici 2030.",
+   "realite": "La troisième étape tombe après les élections de 2029 ; entre-temps, l'indexation des salaires au-delà de 4 000 € est plafonnée et le quotient conjugal réduit de moitié.",
+   "sources": [
+    "rtbf-20251126",
+    "lalibre-20260529-loiprog",
+    "rtbf-20260710-fiscal"
+   ],
+   "verdict_libelle": "Chèque postdaté"
+  },
+  {
+   "qui": "Bart De Wever",
+   "quand": "2026-09-03",
+   "verdict": "contredite",
+   "promesse": "« À la fin de la législature, les impôts seront plus bas qu'au début. »",
+   "realite": "Sa propre note budgétaire de septembre envisage une hausse de la TVA, un impôt sur les associations et un alourdissement de l'imposition des résidences secondaires ; depuis 2025 se sont ajoutées taxe sur les plus-values, taxe sur les comptes-titres doublée, taxe bancaire, taxe sur les colis et hausses d'accises.",
+   "sources": [
+    "vrt-20260903",
+    "vrt-fr-20260914",
+    "bt-20260921",
+    "lalibre-20260925-immo",
+    "bt-20251124",
+    "oeccbb-plusvalues"
+   ],
+   "verdict_libelle": "Contredite par ses propres décisions"
+  },
+  {
+   "qui": "Georges-Louis Bouchez (MR)",
+   "quand": "2025-12-11",
+   "verdict": "sursis",
+   "promesse": "« On ne propose aucune nouvelle taxe jusqu'à la fin de la législature. »",
+   "realite": "Les économistes interrogés par la DH jugent la promesse « totalement irréaliste » ; quatre partis sur cinq envisagent une hausse de la TVA dans la négociation en cours.",
+   "sources": [
+    "dh-20251211-taxe",
+    "dh-20260903-bouchez"
+   ],
+   "verdict_libelle": "En sursis"
+  },
+  {
+   "qui": "Georges-Louis Bouchez (MR)",
+   "quand": "2025-11-24",
+   "verdict": "sursis",
+   "promesse": "Pas de hausse des taux de TVA, le panier des ménages est protégé (déclaration du soir de l'accord budgétaire, rapportée par Euronews).",
+   "realite": "Hôtels et campings sont passés de 6 à 12 % au 1er mars 2026 ; le passage à 12 % des plats à emporter n'a été abandonné qu'après un avis cinglant du Conseil d'État ; un taux normal à 22 % figure dans la note du Premier ministre.",
+   "sources": [
+    "euronews-20251124",
+    "kpmg-tva-2026",
+    "lavenir-20260213-tva",
+    "vrt-fr-20260914"
+   ],
+   "verdict_libelle": "En sursis"
+  },
+  {
+   "qui": "Accord de gouvernement",
+   "quand": "2025-01-31",
+   "verdict": "horsatteinte",
+   "promesse": "Porter le taux d'emploi à 80 %.",
+   "realite": "72,8 % à la mi-2026 ; croissance de l'emploi limitée à 0,4 % en 2025. La Cour des comptes juge irréaliste l'hypothèse qu'un tiers des chômeurs exclus retrouvent un emploi (la BNB table sur 10 à 20 %).",
+   "sources": [
+    "businessam-emploi",
+    "lalibre-20260930-cse",
+    "ccomptes-rtbf"
+   ],
+   "verdict_libelle": "Hors d'atteinte"
+  },
+  {
+   "qui": "Vooruit",
+   "quand": "2025-10-01",
+   "verdict": "symbolique",
+   "promesse": "Faire contribuer les « épaules les plus larges » : une « contribution des millionnaires » d'un milliard d'euros.",
+   "realite": "Pas d'impôt sur la fortune. La contribution des « épaules les plus larges » de l'accord de novembre 2025 pèse 912 millions, moins que l'économie attendue sur les seuls malades de longue durée (1,9 milliard).",
+   "sources": [
+    "vrt-20251001-vooruit",
+    "bt-20251124"
+   ],
+   "verdict_libelle": "Symbolique"
+  },
+  {
+   "qui": "Les Engagés",
+   "quand": "2026-09-24",
+   "verdict": "contredite",
+   "promesse": "Condition posée par Yvan Verougstraete : l'effort ne doit pas peser sur les plus fragiles, malades et personnes handicapées compris.",
+   "realite": "Les Engagés ont voté la limitation du chômage (seuls 10 % des cohabitants exclus peuvent prétendre au revenu d'intégration), le durcissement envers les malades de longue durée, et appartiennent à une majorité qui a réduit le budget de l'aide alimentaire de 40 à 15 millions.",
+   "sources": [
+    "lalibre-20260924-verougstraete",
+    "lavenir-20250715-cohabitants",
+    "rtbf-malades",
+    "guidesocial-aide-alim"
+   ],
+   "verdict_libelle": "Contredite par ses propres décisions"
+  },
+  {
+   "qui": "Anneleen Van Bossuyt (N-VA)",
+   "quand": "2026-01-15",
+   "verdict": "prixdudroit",
+   "promesse": "La politique migratoire « la plus stricte » : la Belgique ne doit plus être une destination privilégiée des demandeurs d'asile.",
+   "realite": "Demandes d'asile en baisse de 13 % en 2025 ; mais deux mesures suspendues par la Cour constitutionnelle et des instructions de la ministre suspendues par le Conseil d'État pour non-respect de cet arrêt.",
+   "sources": [
+    "vanbossuyt-2025",
+    "moustique-20260327",
+    "aida-be-2025"
+   ],
+   "verdict_libelle": "Tenue au prix du droit"
+  },
+  {
+   "qui": "Gouvernement (accord de novembre 2025)",
+   "quand": "2025-11-24",
+   "verdict": "recul",
+   "promesse": "Doubler la taxe d'embarquement à 10 € par billet.",
+   "realite": "Ramenée à 7 € (vols de 500 à 3 500 km) dans l'accord d'été 2026, après des mois de menaces de Ryanair de réduire ses activités en Belgique.",
+   "sources": [
+    "bt-20251124",
+    "lalibre-20260720-ryanair"
+   ],
+   "verdict_libelle": "Recul sous pression"
+  },
+  {
+   "qui": "Gouvernement (accord de novembre 2025)",
+   "quand": "2025-11-24",
+   "verdict": "abandonnee",
+   "promesse": "TVA à 12 % sur les plats à emporter, le sport et la culture (≈ 400 millions par an).",
+   "realite": "Retirée en février 2026 : le critère de la date de péremption aurait taxé différemment une pizza fraîche et une pizza surgelée ; le Conseil d'État a relevé des problèmes juridiques.",
+   "sources": [
+    "lavenir-20260213-tva"
+   ],
+   "verdict_libelle": "Abandonnée"
+  },
+  {
+   "qui": "Bart De Wever",
+   "quand": "2026-04-30",
+   "verdict": "pari",
+   "promesse": "Racheter le nucléaire d'Engie : « un investissement qui rapporte ».",
+   "realite": "Aucun prix public ; des milliards de passifs (démantèlement, déchets), des réacteurs à l'arrêt, des « risques budgétaires sans précédent » selon trois associations environnementales ; l'échéance du 1er octobre glisse.",
+   "sources": [
+    "dh-20260430-nucleaire",
+    "lavenir-20260430-nucleaire",
+    "rtbf-nucleaire-couteux",
+    "lalibre-20260922-engie"
+   ],
+   "verdict_libelle": "Pari non chiffré"
+  },
+  {
+   "qui": "Theo Francken (N-VA)",
+   "quand": "2026-07-08",
+   "verdict": "pari",
+   "promesse": "Feuille de route vers 3,5 % du PIB pour la défense en 2035.",
+   "realite": "Le ministre admet que maintenir 2 % serait déjà « du bon travail » ; aucun financement n'est identifié pour la marche suivante, alors que le gouvernement cherche 10 milliards.",
+   "sources": [
+    "vrt-en-20260708-nato",
+    "bt-20260909"
+   ],
+   "verdict_libelle": "Pari non chiffré"
+  },
+  {
+   "qui": "David Clarinval (MR)",
+   "quand": "2026-07-23",
+   "verdict": "pari",
+   "promesse": "Annualisation du temps de travail « sans perte de pouvoir d'achat », avec l'accord du travailleur.",
+   "realite": "La FGTB estime la perte possible à 1 500 € net par an d'heures supplémentaires non payées ; aucune évaluation indépendante n'a été publiée.",
+   "sources": [
+    "dh-20260723-annualisation"
+   ],
+   "verdict_libelle": "Pari non chiffré"
+  }
+ ]
+}

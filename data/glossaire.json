@@ -1,0 +1,280 @@
+{
+ "meta": {
+  "date_arret": "2026-09-30",
+  "genere_le": "2026-09-30",
+  "licence": "CC BY-NC-SA 4.0",
+  "projet": "https://github.com/ouaisfieu/haha"
+ },
+ "data": [
+  {
+   "terme": "Arizona",
+   "definition": "Surnom de la coalition N-VA, MR, Les Engagés, Vooruit et CD&V, d'après le drapeau de l'État américain : rayons jaunes (N-VA) et rouges (Vooruit), bas bleu (MR), étoile cuivrée évoquant l'orange des démocrates-chrétiens.",
+   "ancre": "arizona"
+  },
+  {
+   "terme": "Vivaldi",
+   "definition": "Coalition précédente (2020-2025) dirigée par Alexander De Croo, réunissant libéraux, socialistes, écologistes et CD&V : quatre familles, « quatre saisons ».",
+   "ancre": "vivaldi"
+  },
+  {
+   "terme": "Azur",
+   "definition": "Nom donné aux coalitions MR–Les Engagés qui gouvernent la Wallonie et la Fédération Wallonie-Bruxelles depuis 2024.",
+   "ancre": "azur"
+  },
+  {
+   "terme": "Kern",
+   "definition": "Comité ministériel restreint réunissant le Premier ministre et les vice-Premiers ministres (un par parti). C'est là que se négocient les arbitrages.",
+   "ancre": "kern"
+  },
+  {
+   "terme": "Conclave budgétaire",
+   "definition": "Séance de négociation prolongée (souvent un week-end) du kern pour boucler un budget.",
+   "ancre": "conclave-budgetaire"
+  },
+  {
+   "terme": "Déclaration de politique générale",
+   "definition": "Discours annuel du Premier ministre à la Chambre, traditionnellement le deuxième mardi d'octobre, suivi d'un vote de confiance.",
+   "ancre": "declaration-de-politique-generale"
+  },
+  {
+   "terme": "Douzièmes provisoires",
+   "definition": "Autorisations de dépenses mois par mois, votées lorsque le budget annuel n'est pas adopté à temps.",
+   "ancre": "douziemes-provisoires"
+  },
+  {
+   "terme": "Comité de monitoring",
+   "definition": "Comité de hauts fonctionnaires (SPF Finances et BOSA) qui estime, plusieurs fois par an, l'évolution du budget fédéral à politique inchangée.",
+   "ancre": "comite-de-monitoring"
+  },
+  {
+   "terme": "Bureau fédéral du Plan",
+   "definition": "Organisme public indépendant qui produit prévisions économiques, projections et évaluations d'impact.",
+   "ancre": "bureau-federal-du-plan"
+  },
+  {
+   "terme": "Entité I / Entité II",
+   "definition": "Entité I : pouvoir fédéral et sécurité sociale. Entité II : Régions, Communautés et pouvoirs locaux.",
+   "ancre": "entite-i-entite-ii"
+  },
+  {
+   "terme": "Procédure de déficit excessif",
+   "definition": "Procédure européenne ouverte quand le déficit dépasse 3 % du PIB ; elle impose une trajectoire de dépenses nettes. La Belgique y est soumise depuis 2024.",
+   "ancre": "procedure-de-deficit-excessif"
+  },
+  {
+   "terme": "Clause dérogatoire nationale",
+   "definition": "Flexibilité européenne permettant, de 2025 à 2028, de dévier jusqu'à 1,5 % du PIB de la trajectoire pour financer la défense.",
+   "ancre": "clause-derogatoire-nationale"
+  },
+  {
+   "terme": "Effet boule de neige",
+   "definition": "Situation où le taux d'intérêt sur la dette dépasse la croissance nominale : la dette augmente mécaniquement, même sans nouveau déficit primaire.",
+   "ancre": "effet-boule-de-neige"
+  },
+  {
+   "terme": "Notation souveraine",
+   "definition": "Évaluation du risque de crédit d'un État par une agence (Moody's, S&P, Fitch). Une note plus basse peut renchérir l'emprunt.",
+   "ancre": "notation-souveraine"
+  },
+  {
+   "terme": "Indice-pivot",
+   "definition": "Seuil de l'indice santé lissé dont le dépassement déclenche l'indexation des allocations sociales et des salaires publics.",
+   "ancre": "indice-pivot"
+  },
+  {
+   "terme": "Indice santé",
+   "definition": "Indice des prix à la consommation dont sont exclus tabac, alcool et carburants ; il sert de base à l'indexation.",
+   "ancre": "indice-sante"
+  },
+  {
+   "terme": "Index en cents",
+   "definition": "Surnom de l'indexation plafonnée décidée en 2025 : en 2026 et 2028, les salaires au-delà de 4 000 € brut (2 000 € pour les allocations) ne reçoivent que l'indexation correspondant à ce plafond, sous forme de montant fixe.",
+   "ancre": "index-en-cents"
+  },
+  {
+   "terme": "Saut d'index",
+   "definition": "Suppression pure et simple d'une indexation. Le MR en a fait une ligne rouge.",
+   "ancre": "saut-d-index"
+  },
+  {
+   "terme": "Loi de 1996 / norme salariale",
+   "definition": "Cadre légal qui limite la hausse des salaires réels pour préserver la compétitivité face aux pays voisins.",
+   "ancre": "loi-de-1996-norme-salariale"
+  },
+  {
+   "terme": "Annualisation",
+   "definition": "Calcul de la durée du travail sur l'année plutôt que sur la semaine : des semaines longues (jusqu'à 48 heures, voire 60) peuvent être compensées par des semaines courtes, ce qui réduit les heures supplémentaires payées. Projet porté par le ministre de l'Emploi, ligne rouge syndicale.",
+   "ancre": "annualisation"
+  },
+  {
+   "terme": "Cliquet inversé",
+   "definition": "Mécanisme de baisse automatique des accises sur les carburants quand les prix dépassent un seuil.",
+   "ancre": "cliquet-inverse"
+  },
+  {
+   "terme": "Accises",
+   "definition": "Taxes spécifiques sur certains produits (carburants, gaz, électricité, tabac, alcool).",
+   "ancre": "accises"
+  },
+  {
+   "terme": "Quotité exemptée d'impôt",
+   "definition": "Tranche de revenu non imposée à l'impôt des personnes physiques.",
+   "ancre": "quotite-exemptee-d-impot"
+  },
+  {
+   "terme": "Quotient conjugal",
+   "definition": "Transfert fictif d'une partie des revenus au conjoint qui gagne peu ou pas, réduisant l'impôt du ménage. L'Arizona le réduit de moitié d'ici 2029.",
+   "ancre": "quotient-conjugal"
+  },
+  {
+   "terme": "Bonus à l'emploi",
+   "definition": "Réduction de cotisations sociales et d'impôt pour les bas salaires, destinée à rendre le travail plus rémunérateur.",
+   "ancre": "bonus-a-l-emploi"
+  },
+  {
+   "terme": "Taxe sur les comptes-titres",
+   "definition": "Taxe annuelle sur les comptes-titres dont la valeur dépasse un million d'euros ; son taux passe de 0,15 % à 0,30 %.",
+   "ancre": "taxe-sur-les-comptes-titres"
+  },
+  {
+   "terme": "Taxe sur les plus-values",
+   "definition": "Impôt de 10 % sur les plus-values financières réalisées par les particuliers au-delà de 10 000 € par an, depuis 2026.",
+   "ancre": "taxe-sur-les-plus-values"
+  },
+  {
+   "terme": "Malus / bonus pension",
+   "definition": "Réduction (malus) ou majoration (bonus) de la pension selon la durée de carrière effective et l'âge de départ.",
+   "ancre": "malus-bonus-pension"
+  },
+  {
+   "terme": "Périodes assimilées",
+   "definition": "Périodes d'inactivité (chômage, maladie, crédit-temps…) prises en compte comme du travail pour le calcul de la pension.",
+   "ancre": "periodes-assimilees"
+  },
+  {
+   "terme": "Péréquation",
+   "definition": "Mécanisme qui faisait suivre aux pensions de fonctionnaires l'évolution des traitements des actifs. Supprimée par la réforme.",
+   "ancre": "perequation"
+  },
+  {
+   "terme": "Tantième",
+   "definition": "Fraction (par exemple 1/60e) du traitement de référence acquise par année de service dans le calcul de la pension publique.",
+   "ancre": "tantieme"
+  },
+  {
+   "terme": "Allocations d'insertion",
+   "definition": "Allocations accordées aux jeunes sortis des études sans avoir assez travaillé pour ouvrir un droit au chômage.",
+   "ancre": "allocations-d-insertion"
+  },
+  {
+   "terme": "CPAS",
+   "definition": "Centre public d'action sociale : institution communale qui octroie notamment le revenu d'intégration. Financé en partie par les communes.",
+   "ancre": "cpas"
+  },
+  {
+   "terme": "RIS",
+   "definition": "Revenu d'intégration sociale, dernier filet de sécurité octroyé par les CPAS. La réforme fiscale le traite désormais comme un revenu de remplacement imposable.",
+   "ancre": "ris"
+  },
+  {
+   "terme": "ONEM",
+   "definition": "Office national de l'emploi, qui gère les allocations de chômage (le Forem, Actiris et le VDAB assurent l'accompagnement régional).",
+   "ancre": "onem"
+  },
+  {
+   "terme": "Malades de longue durée",
+   "definition": "Personnes en incapacité de travail depuis plus d'un an (invalidité). Environ 526 000 personnes en Belgique.",
+   "ancre": "malades-de-longue-duree"
+  },
+  {
+   "terme": "Ticket modérateur",
+   "definition": "Part des frais médicaux restant à charge du patient après remboursement.",
+   "ancre": "ticket-moderateur"
+  },
+  {
+   "terme": "Norme de croissance",
+   "definition": "Plafond de croissance réelle annuelle du budget des soins de santé.",
+   "ancre": "norme-de-croissance"
+  },
+  {
+   "terme": "Conventionnement",
+   "definition": "Engagement des médecins à respecter les tarifs de l'accord médico-mutualiste. Le conventionnement « partiel » permet de pratiquer une partie de l'activité hors tarif.",
+   "ancre": "conventionnement"
+  },
+  {
+   "terme": "Suppléments d'honoraires",
+   "definition": "Montants facturés au-delà du tarif officiel, notamment en chambre individuelle à l'hôpital.",
+   "ancre": "supplements-d-honoraires"
+  },
+  {
+   "terme": "Fedasil",
+   "definition": "Agence fédérale pour l'accueil des demandeurs d'asile.",
+   "ancre": "fedasil"
+  },
+  {
+   "terme": "Statut M",
+   "definition": "Demandeur d'asile déjà reconnu comme protégé dans un autre État de l'UE.",
+   "ancre": "statut-m"
+  },
+  {
+   "terme": "Regroupement familial",
+   "definition": "Droit pour un étranger résidant légalement de faire venir certains membres de sa famille.",
+   "ancre": "regroupement-familial"
+  },
+  {
+   "terme": "Euroclear",
+   "definition": "Dépositaire central de titres établi à Bruxelles, qui détient l'essentiel des avoirs de la Banque centrale russe gelés dans l'UE (≈ 193 milliards d'euros).",
+   "ancre": "euroclear"
+  },
+  {
+   "terme": "NASAMS",
+   "definition": "Système de défense antiaérienne de moyenne portée d'origine norvégienne, acheté conjointement avec les Pays-Bas.",
+   "ancre": "nasams"
+  },
+  {
+   "terme": "Cordon sanitaire",
+   "definition": "Engagement des autres partis à ne pas gouverner avec le Vlaams Belang (et, côté francophone, à lui refuser l'accès aux médias en direct).",
+   "ancre": "cordon-sanitaire"
+  },
+  {
+   "terme": "Confédéralisme",
+   "definition": "Projet porté par la N-VA de transférer l'essentiel des compétences aux entités fédérées, le niveau belge ne gardant que ce que celles-ci lui délèguent.",
+   "ancre": "confederalisme"
+  },
+  {
+   "terme": "Loi spéciale de financement",
+   "definition": "Loi qui organise le financement des Régions et Communautés. Sa révision est une piste évoquée pour faire contribuer davantage les entités fédérées.",
+   "ancre": "loi-speciale-de-financement"
+  },
+  {
+   "terme": "Groupe des 10",
+   "definition": "Principal organe de concertation interprofessionnelle entre syndicats et organisations patronales.",
+   "ancre": "groupe-des-10"
+  },
+  {
+   "terme": "Cour des comptes",
+   "definition": "Institution rattachée à la Chambre qui contrôle les finances publiques et commente chaque budget fédéral. En février 2026, elle a jugé « fragiles » plusieurs hypothèses du budget de l'Arizona.",
+   "ancre": "cour-des-comptes"
+  },
+  {
+   "terme": "GRECO",
+   "definition": "Groupe d'États contre la corruption du Conseil de l'Europe. Il évalue les règles d'intégrité des États membres (ministres, cabinets, parlementaires, police, magistrats) et suit la mise en œuvre de ses recommandations.",
+   "ancre": "greco"
+  },
+  {
+   "terme": "Revenu de remplacement",
+   "definition": "Revenu versé à la place d'un salaire : allocations de chômage, indemnités de maladie-invalidité, pensions, revenu d'intégration.",
+   "ancre": "revenu-de-remplacement"
+  },
+  {
+   "terme": "Cohabitant",
+   "definition": "Statut social d'une personne qui vit sous le même toit qu'une ou plusieurs autres et partage avec elles les charges du ménage. Le revenu d'intégration tient compte des revenus du ménage, contrairement aux allocations de chômage.",
+   "ancre": "cohabitant"
+  },
+  {
+   "terme": "Dépense fiscale",
+   "definition": "Recette à laquelle l'État renonce par un avantage fiscal (réduction, exonération, régime préférentiel), par exemple l'avantage lié aux voitures de société.",
+   "ancre": "depense-fiscale"
+  }
+ ]
+}

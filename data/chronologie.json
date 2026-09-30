@@ -1,0 +1,933 @@
+{
+ "meta": {
+  "date_arret": "2026-09-30",
+  "genere_le": "2026-09-30",
+  "licence": "CC BY-NC-SA 4.0",
+  "projet": "https://github.com/ouaisfieu/haha"
+ },
+ "data": [
+  {
+   "date": "2024-06-09",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Élections fédérales, régionales et européennes",
+   "texte": "La N-VA arrive en tête (24 sièges), devant le Vlaams Belang et le MR (20 sièges chacun). Les Engagés et le MR progressent fortement en Wallonie ; la Vivaldi sortante est sanctionnée.",
+   "sources": [
+    "wiki-fed-2024",
+    "wiki-reg-2024"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2024-06-21",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "De Wever propose la formule « Arizona »",
+   "texte": "Informateur, Bart De Wever juge qu'une coalition N-VA, MR, Les Engagés, Vooruit et CD&V est la seule option viable.",
+   "sources": [
+    "wiki-formation"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2024-08-22",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Premier échec du formateur",
+   "texte": "Faute d'accord entre les cinq partis, De Wever rend sa mission ; Maxime Prévot est désigné médiateur, puis De Wever reprend la main début septembre.",
+   "sources": [
+    "wiki-formation"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2024-10-31",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Vooruit bloque la « super-note »",
+   "texte": "Vooruit juge la note de De Wever « trop déséquilibrée », notamment sur la répartition de l'effort budgétaire. De Wever propose sa démission de formateur début novembre ; le Roi prolonge sa mission.",
+   "sources": [
+    "wiki-formation"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-01-13",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Première grande manifestation sur les pensions",
+   "texte": "Environ 30 000 personnes à Bruxelles selon la police, avant même la formation du gouvernement.",
+   "sources": [
+    "dh-20250113"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-01-31",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Accord de gouvernement Arizona",
+   "texte": "Les cinq partis concluent l'accord de coalition 2025-2029 : limitation du chômage dans le temps, réforme des pensions, baisse de la fiscalité sur le travail, politique migratoire durcie, hausse des dépenses de défense.",
+   "sources": [
+    "rtbf-accord-2025",
+    "wiki-formation"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-02-03",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Prestation de serment du gouvernement De Wever",
+   "texte": "239 jours après les élections, Bart De Wever devient le premier nationaliste flamand Premier ministre de Belgique. 15 ministres, dont aucune femme au comité restreint (« kern »).",
+   "sources": [
+    "wiki-dewever-gov",
+    "vrt-fr-20250203",
+    "rtbf-ministres-2025"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-02-13",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Manifestation nationale",
+   "texte": "Au moins 60 000 manifestants selon la police, 100 000 selon les syndicats.",
+   "sources": [
+    "bxltoday-20250213",
+    "lavenir-20250213"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-03-31",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Grève générale",
+   "texte": "Grève interprofessionnelle nationale contre les projets du gouvernement.",
+   "sources": [
+    "lavenir-20251126-greve"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-04-12",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "« Accord de Pâques »",
+   "texte": "Premier paquet de réformes : limitation du chômage à partir du 1er janvier 2026, principes du bonus-malus pension, trajectoire vers 2 % du PIB pour la défense dès 2025.",
+   "sources": [
+    "rtbf-paques-2025"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-04-29",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Nouvelle grève nationale",
+   "texte": "Manifestations décentralisées (5 000 personnes à Liège, 4 000 à Bruxelles selon L'Avenir).",
+   "sources": [
+    "lavenir-20250429"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-05",
+   "theme": "energie",
+   "theme_libelle": "Énergie",
+   "titre": "Abrogation de la loi de sortie du nucléaire",
+   "texte": "Le Parlement abroge la loi de 2003 organisant la sortie du nucléaire.",
+   "sources": [
+    "lalibre-20260922-engie"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-06-13",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Fitch dégrade la Belgique",
+   "texte": "La note passe de AA- à A+.",
+   "sources": [
+    "bloomberg-fitch-2025",
+    "rtbf-moodys"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-06-26",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Le coût caché des voitures de société",
+   "texte": "Le Bureau du Plan chiffre le manque à gagner fiscal à 4,7-5,2 milliards d'euros par an. Le régime ne sera pas touché par l'accord de novembre.",
+   "sources": [
+    "rtbf-voitures-5mds"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-07-02",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Aide alimentaire : budget divisé par près de trois",
+   "texte": "Une cinquantaine d'organisations dénoncent le passage de 40 à 15 millions d'euros du budget d'aide alimentaire pour 2026, le fédéral réduisant sa participation.",
+   "sources": [
+    "guidesocial-aide-alim"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-07-07",
+   "theme": "sante",
+   "theme_libelle": "Santé",
+   "titre": "Grève des médecins",
+   "texte": "L'ABSyM appelle médecins et dentistes à la grève contre l'avant-projet de loi-cadre Vandenbroucke.",
+   "sources": [
+    "rtbf-medecins-2025"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-07-08",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Clause dérogatoire « défense » activée par l'UE",
+   "texte": "La Belgique fait partie des 15 États autorisés à dévier jusqu'à 1,5 % du PIB de leur trajectoire pour des dépenses de défense (2025-2028).",
+   "sources": [
+    "consilium-escape"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-07-18",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Vision stratégique de la Défense",
+   "texte": "34 milliards d'euros d'investissements d'ici 2035, 11 F-35 supplémentaires, objectif de recrutement massif.",
+   "sources": [
+    "rtbf-vision-defense"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-07-21",
+   "theme": "pensions",
+   "theme_libelle": "Pensions",
+   "titre": "« Accord d'été » sur les pensions",
+   "texte": "Harmonisation des régimes (calcul des pensions de fonctionnaires sur 45 ans), fin progressive des régimes spéciaux, système bonus-malus.",
+   "sources": [
+    "vrt-fr-20250721"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-09-02",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Accord sur la Palestine et sanctions contre Israël",
+   "texte": "Reconnaissance conditionnelle de l'État de Palestine, interdiction d'importer les produits des colonies, Ben Gvir et Smotrich persona non grata.",
+   "sources": [
+    "rtbf-20250902-palestine"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-09-22",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Reconnaissance conditionnelle annoncée à l'ONU",
+   "texte": "De Wever annonce la reconnaissance de l'État palestinien, subordonnée à la libération des otages et à l'éviction du Hamas ; l'arrêté royal reste en suspens.",
+   "sources": [
+    "rtbf-onu-palestine",
+    "lavenir-20260128-palestine"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-10-01",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Vooruit propose une « contribution des millionnaires »",
+   "texte": "Objectif affiché : 1 milliard d'euros de recettes via un impôt sur les grandes fortunes.",
+   "sources": [
+    "vrt-20251001-vooruit"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-10-09",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "De Wever met une hausse de TVA sur la table",
+   "texte": "Le MR s'y oppose ; le débat sur la TVA ne quittera plus les négociations budgétaires.",
+   "sources": [
+    "vrt-20251009-btw"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-10-14",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Manifestation nationale",
+   "texte": "80 000 personnes selon la police, 140 000 selon la FGTB.",
+   "sources": [
+    "rtbf-20251014-decompte"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-11-01",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Francken : « Moscou sera rayée de la carte »",
+   "texte": "Le ministre de la Défense menace Moscou en cas de frappe nucléaire russe ; Dmitri Medvedev réplique que « la Belgique disparaîtra ».",
+   "sources": [
+    "parismatch-francken"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-11-06",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "De Wever au Palais : « Donnez-moi cinquante jours »",
+   "texte": "Faute d'accord budgétaire, le Premier ministre se rend chez le Roi mais ne démissionne pas ; il se donne jusqu'à Noël pour aboutir.",
+   "sources": [
+    "lavenir-20251106"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-11-24",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Accord budgétaire de 9,2 milliards",
+   "texte": "Indexation plafonnée au-delà de 4 000 € brut, taxe sur les comptes-titres doublée, TVA ciblée, taxe sur les colis, taxe bancaire. Le même jour débute une grève de trois jours.",
+   "sources": [
+    "belga-20251124",
+    "bt-20251124",
+    "euronews-20251124"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-11-26",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Déclaration de politique générale",
+   "texte": "De Wever promet « environ mille euros net en plus par an » aux travailleurs d'ici 2030.",
+   "sources": [
+    "rtbf-20251126"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-12-11",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Bouchez : « aucune nouvelle taxe » d'ici 2029",
+   "texte": "Promesse jugée « totalement irréaliste » par les économistes interrogés par la DH.",
+   "sources": [
+    "dh-20251211-taxe"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2025-12-19",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Euroclear : l'UE renonce aux avoirs russes",
+   "texte": "Après l'opposition de la Belgique au « prêt de réparation », les 27 optent pour un emprunt commun de 90 milliards d'euros pour l'Ukraine.",
+   "sources": [
+    "vrt-fr-20251219-euroclear"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-01-01",
+   "theme": "emploi",
+   "theme_libelle": "Emploi & chômage",
+   "titre": "Premières exclusions du chômage",
+   "texte": "Entrée en vigueur de la limitation des allocations dans le temps ; la taxe de 10 % sur les plus-values financières s'applique aux gains réalisés à partir de cette date.",
+   "sources": [
+    "rtbf-reformes-2026",
+    "oeccbb-plusvalues"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-01-06",
+   "theme": "institutions",
+   "theme_libelle": "Institutions & entités fédérées",
+   "titre": "Le GRECO épingle la Belgique",
+   "texte": "Seules 8 des 22 recommandations anticorruption visant le gouvernement central et la police sont pleinement mises en œuvre ; progrès « minimes » pour les plus hautes fonctions exécutives.",
+   "sources": [
+    "greco-20260106"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-01-19",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Open Vld devient « Anders »",
+   "texte": "Le parti libéral flamand, dans l'opposition fédérale, change de nom.",
+   "sources": [
+    "vrt-20260119-anders"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-01-22",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Onze F-35 de plus, malgré tout",
+   "texte": "1,67 milliard d'euros : le gouvernement maintient la commande malgré les tensions transatlantiques.",
+   "sources": [
+    "lalibre-20260122-f35"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02",
+   "theme": "migration",
+   "theme_libelle": "Asile & migration",
+   "titre": "La Cour constitutionnelle suspend deux mesures migratoires",
+   "texte": "Suspension du refus d'accueil de demandeurs déjà protégés dans un autre État de l'UE et de restrictions au regroupement familial.",
+   "sources": [
+    "moustique-20260327",
+    "aida-be-2025"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02-13",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Marche arrière sur la TVA",
+   "texte": "Le gouvernement renonce à relever la TVA sur les plats à emporter, le sport et la culture (≈ 400 M€/an). Hôtels et campings passent à 12 % au 1er mars.",
+   "sources": [
+    "lavenir-20260213-tva",
+    "kpmg-tva-2026"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02-14",
+   "theme": "institutions",
+   "theme_libelle": "Institutions & entités fédérées",
+   "titre": "Bruxelles a enfin un gouvernement",
+   "texte": "Après 613 jours, Boris Dilliès (MR) prête serment à la tête d'une coalition de sept partis.",
+   "sources": [
+    "vrt-fr-20260214-bxl",
+    "wiki-dillies",
+    "wiki-2026-be"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02-21",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "La défense financée par les avoirs russes",
+   "texte": "Selon la Cour des comptes, 1,163 milliard d'impôt sur les bénéfices d'Euroclear finance la défense en 2026 — plus d'un tiers de la hausse jusqu'en 2029.",
+   "sources": [
+    "lalibre-20260221-euroclear"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02-22",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "La Cour des comptes démonte les hypothèses",
+   "texte": "Retour à l'emploi des exclus surestimé, recettes de la taxe sur les plus-values « trop incertaines », lutte contre la fraude non documentée.",
+   "sources": [
+    "ccomptes-oeccbb",
+    "ccomptes-rtbf"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-02-28",
+   "theme": "energie",
+   "theme_libelle": "Énergie",
+   "titre": "Début de la guerre en Iran",
+   "texte": "Frappes israélo-américaines, fermeture du détroit d'Ormuz : choc pétrolier et gazier mondial.",
+   "sources": [
+    "wiki-iran-ceasefire",
+    "iru-20260522"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-03-05",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Commune Colère : actions simultanées à Bruxelles",
+   "texte": "Le réseau militant Commune Colère mène plusieurs actions coordonnées dans la capitale contre les mesures du gouvernement.",
+   "sources": [
+    "lalibre-20260305-commune"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-03-12",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Manifestation nationale",
+   "texte": "Entre 80 000 et 100 000 personnes selon les sources ; incidents et une cinquantaine d'arrestations.",
+   "sources": [
+    "jde-20260312",
+    "bxltoday-20260312"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-03-23",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Comité de monitoring : 4,9 milliards de plus",
+   "texte": "Le déficit fédéral dérive : 3,8 % du PIB en 2026 et 4,9 % en 2029 sans nouvelles mesures.",
+   "sources": [
+    "vrt-20260323"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-03-25",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Loi-programme : vote reporté",
+   "texte": "Les partenaires sociaux n'avaient pas été consultés à temps ; le PS parle d'une méthode qui « dépasse l'entendement ».",
+   "sources": [
+    "parismatch-20260325-loiprog"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-03-27",
+   "theme": "migration",
+   "theme_libelle": "Asile & migration",
+   "titre": "Le Conseil d'État désavoue la ministre Van Bossuyt",
+   "texte": "Suspension de ses instructions à Fedasil, jugées contraires à l'arrêt de la Cour constitutionnelle.",
+   "sources": [
+    "moustique-20260327"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-04",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Loi sur la taxe des plus-values votée",
+   "texte": "10 % au-delà de 10 000 € de plus-value annuelle ; rétroactive au 1er janvier 2026.",
+   "sources": [
+    "oeccbb-plusvalues"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-13",
+   "theme": "pensions",
+   "theme_libelle": "Pensions",
+   "titre": "Le Bureau du Plan chiffre la réforme des pensions",
+   "texte": "Les fonctionnaires sont les principaux perdants ; le risque de pauvreté des pensionnés augmente légèrement.",
+   "sources": [
+    "lavenir-20260413-fpb"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-17",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Moody's retire le « double A »",
+   "texte": "Note abaissée de Aa3 à A1 : l'agence doute de la capacité du gouvernement à stabiliser la dette.",
+   "sources": [
+    "rtbf-moodys"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-21",
+   "theme": "energie",
+   "theme_libelle": "Énergie",
+   "titre": "Paquet énergie de 80 millions",
+   "texte": "Aides ciblées et temporaires (indemnités kilométriques, fonds sociaux chauffage, report de hausses d'accises).",
+   "sources": [
+    "forum-kern-20260421"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-24",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "S&P abaisse la note à AA-",
+   "texte": "Deuxième dégradation en une semaine.",
+   "sources": [
+    "te-sp-20260424"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-04-30",
+   "theme": "energie",
+   "theme_libelle": "Énergie",
+   "titre": "Lettre d'intention État–Engie",
+   "texte": "Ouverture de négociations exclusives en vue d'une reprise des activités nucléaires d'Engie par l'État.",
+   "sources": [
+    "lalibre-20260922-engie"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-05-12",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Manifestation nationale",
+   "texte": "Entre 40 000 (police) et 75 000 (syndicats) participants.",
+   "sources": [
+    "rtbf-20260512"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-05-16",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Front commun syndicats-patronat contre l'« index en cents »",
+   "texte": "Le Groupe des 10 propose une alternative commune ; le Premier ministre la rejette.",
+   "sources": [
+    "lalibre-20260516-index"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-05-21",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Prévisions de printemps de la Commission",
+   "texte": "Déficit belge : 5,2 % du PIB en 2026 et 5,4 % en 2027 ; dette à 112,8 % en 2027.",
+   "sources": [
+    "lalibre-20260521-deficit",
+    "ce-printemps-2026"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-05-22",
+   "theme": "sante",
+   "theme_libelle": "Santé",
+   "titre": "Loi-cadre Vandenbroucke adoptée",
+   "texte": "Fraude, suppléments d'honoraires et conventionnement : plafonds reportés à une concertation jusqu'en 2027.",
+   "sources": [
+    "lespecialiste-loicadre"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-05-29",
+   "theme": "pensions",
+   "theme_libelle": "Pensions",
+   "titre": "Réforme des pensions et loi-programme votées",
+   "texte": "Vote de nuit : malus/bonus, fin de la péréquation, indexation plafonnée (dès le 1er juin 2026).",
+   "sources": [
+    "rtbf-pensions-vote",
+    "lalibre-20260529-loiprog"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-06",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Aide alimentaire : +73 % de demandes",
+   "texte": "Enquête de printemps en Wallonie et à Bruxelles : les travailleurs pauvres et les exclus du chômage gonflent les files.",
+   "sources": [
+    "rtbf-aide-alimentaire"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-06-02",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Catalogue de plus de 250 mesures",
+   "texte": "Le Bureau du Plan, avec 28 universitaires, publie un inventaire d'options chiffrées — sans recommandation.",
+   "sources": [
+    "lavenir-20260602",
+    "rtbf-260mesures",
+    "plan-250"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-06-05",
+   "theme": "institutions",
+   "theme_libelle": "Institutions & entités fédérées",
+   "titre": "FWB : décret-programme d'économies dans l'enseignement",
+   "texte": "Hausse de la charge horaire des enseignants du secondaire, minerval porté à 1 194 € pour une majorité d'étudiants.",
+   "sources": [
+    "rtbf-20260605-fwb"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-06-12",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Comité de monitoring : 7,7 milliards",
+   "texte": "L'effort supplémentaire à trouver d'ici 2029 grimpe encore. Le même jour, un sondage Ipsos place Les Engagés devant le MR en Wallonie.",
+   "sources": [
+    "vrt-20260612",
+    "dh-20260612-sondage"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-07",
+   "theme": "economie",
+   "theme_libelle": "Économie & prix",
+   "titre": "Record de faillites au premier semestre",
+   "texte": "6 267 faillites, du jamais-vu sur un semestre selon GraydonCreditsafe.",
+   "sources": [
+    "econostrum-faillites"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-07-08",
+   "theme": "defense",
+   "theme_libelle": "Défense & international",
+   "titre": "Sommet de l'OTAN à Ankara",
+   "texte": "La Belgique confirme 2 % du PIB jusqu'en 2029 et une feuille de route vers 3,5 % en 2035 ; achat conjoint de NASAMS avec les Pays-Bas.",
+   "sources": [
+    "vrt-en-20260708-nato"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-07-10",
+   "theme": "fiscalite",
+   "theme_libelle": "Fiscalité & pouvoir d'achat",
+   "titre": "Réforme fiscale (1re partie) votée",
+   "texte": "Hausse progressive de la quotité exemptée, réduction du quotient conjugal, imposition du revenu d'intégration, 360 heures supplémentaires défiscalisées.",
+   "sources": [
+    "rtbf-20260710-fiscal"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-07-18",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "« Accord d'été » 2026",
+   "texte": "70 mesures (congé familial, prisons, police, football, taxe d'embarquement ramenée à 7 €) ; la recherche des 10 milliards est reportée à l'automne.",
+   "sources": [
+    "vrt-20260720-zomer",
+    "21news-zomer",
+    "lalibre-20260720-ryanair"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-08-27",
+   "theme": "justice",
+   "theme_libelle": "Justice & sécurité",
+   "titre": "Plan « noyer le terrain » à Bruxelles",
+   "texte": "Après sept fusillades en cinq jours, le ministre de l'Intérieur annonce renforts policiers, caméras et fusion des zones de police.",
+   "sources": [
+    "rtbf-20260827-quintin"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-03",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Rentrée : lignes rouges",
+   "texte": "Le MR exclut toute hausse de TVA ; De Wever promet des impôts plus bas en fin de législature.",
+   "sources": [
+    "dh-20260903-bouchez",
+    "vrt-20260903"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-09",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Les syndicats convoquent une manifestation le 9 octobre",
+   "texte": "FGTB et CSC fixent trois lignes rouges (index, TVA, annualisation) et brandissent la menace d'une grève générale fin novembre.",
+   "sources": [
+    "moustique-20260909b"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-10",
+   "theme": "emploi",
+   "theme_libelle": "Emploi & chômage",
+   "titre": "La Cour constitutionnelle valide la limitation du chômage",
+   "texte": "Mais elle annule le régime transitoire jugé discriminatoire : environ 100 000 personnes exclues trop tôt.",
+   "sources": [
+    "rtbf-20260910-cc",
+    "liguedh-20260910"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-18",
+   "theme": "opinion",
+   "theme_libelle": "Opinion & sondages",
+   "titre": "Sondage Ipsos : le VB et le PTB en hausse",
+   "texte": "Vlaams Belang 27,8 % en Flandre ; en Wallonie, le PS (29 %) devance le MR (20,3 %) et le PTB (18,9 %).",
+   "sources": [
+    "lavenir-20260918-sondage",
+    "bruzz-20260918"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-21",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "La note De Wever jugée « indigeste »",
+   "texte": "MR et Les Engagés rejettent la note de départ (≈ 14 milliards de pistes pour 10 milliards d'effort). Le diesel dépasse 2,50 € le litre.",
+   "sources": [
+    "lalibre-20260921",
+    "lavenir-20260921-diesel"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-24",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Kern sans accord",
+   "texte": "Réunion technique sans avancée ; De Wever renvoie la question des carburants au budget.",
+   "sources": [
+    "lalibre-20260924-kern",
+    "bt-20260924-fuel"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-29",
+   "theme": "economie",
+   "theme_libelle": "Économie & prix",
+   "titre": "Inflation à 4,69 %",
+   "texte": "L'énergie (+24 % sur un an) tire les prix ; De Wever veut accélérer les négociations.",
+   "sources": [
+    "rtbf-inflation-sept",
+    "bt-20260929"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-09-29",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Bouchez : syndicats et mutuelles, « vampires d'argent public »",
+   "texte": "Le président du MR attaque aussi la note budgétaire du Premier ministre, qu'il juge sans vision.",
+   "sources": [
+    "lalibre-20260929-vampires"
+   ],
+   "a_venir": false
+  },
+  {
+   "date": "2026-10-01",
+   "theme": "energie",
+   "theme_libelle": "Énergie",
+   "titre": "Échéance (glissante) de l'accord État–Engie",
+   "texte": "Le ministre de l'Énergie indique que le délai pourra être dépassé.",
+   "sources": [
+    "lalibre-20260922-engie"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-10-03",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Conclave budgétaire prévu (week-end des 3-4 octobre)",
+   "texte": "Nouvelle version de la note du Premier ministre attendue.",
+   "sources": [
+    "dh-20260929"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-10-09",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Manifestation nationale FGTB-CSC",
+   "texte": "« Premier avertissement » avant la déclaration de politique générale.",
+   "sources": [
+    "moustique-20260909b"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-10-13",
+   "theme": "politique",
+   "theme_libelle": "Politique & coalition",
+   "titre": "Déclaration de politique générale",
+   "texte": "Le Premier ministre doit présenter la trajectoire budgétaire à la Chambre.",
+   "sources": [
+    "bt-20260909",
+    "lalibre-20260925-etapes"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-10-15",
+   "theme": "budget",
+   "theme_libelle": "Budget & finances",
+   "titre": "Plan budgétaire à remettre à la Commission européenne",
+   "texte": "Échéance européenne du projet de plan budgétaire 2027.",
+   "sources": [
+    "bt-20260909"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-11-23",
+   "theme": "social",
+   "theme_libelle": "Mobilisation sociale",
+   "titre": "Semaine de grève générale possible",
+   "texte": "La FGTB a mandat pour appeler à la grève si les lignes rouges sont franchies.",
+   "sources": [
+    "moustique-20260909b"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2026-12",
+   "theme": "economie",
+   "theme_libelle": "Économie & prix",
+   "titre": "Dépassement attendu de l'indice-pivot",
+   "texte": "Indexation des allocations et salaires publics en mars 2027.",
+   "sources": [
+    "lavenir-20260901-inflation"
+   ],
+   "a_venir": true
+  },
+  {
+   "date": "2027-01-01",
+   "theme": "pensions",
+   "theme_libelle": "Pensions",
+   "titre": "Entrée en vigueur de la réforme des pensions",
+   "texte": "Malus, bonus et nouvelles règles d'assimilation ; taxe d'embarquement à 7 € (vols de 500 à 3 500 km).",
+   "sources": [
+    "lavenir-20260529-pensions",
+    "lalibre-20260720-ryanair"
+   ],
+   "a_venir": true
+  }
+ ]
+}

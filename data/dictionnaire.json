@@ -1,0 +1,247 @@
+{
+ "meta": {
+  "date_arret": "2026-09-30",
+  "genere_le": "2026-09-30",
+  "licence": "CC BY-NC-SA 4.0",
+  "projet": "https://github.com/ouaisfieu/haha"
+ },
+ "data": [
+  {
+   "terme": "Activation",
+   "definition": "Procédé administratif qui transforme un chômeur fédéral en bénéficiaire communal. Rendement mesuré à Bruxelles trois mois après exclusion : 7,1 % de contrats de plus de 28 jours, 47,6 % de CPAS. Le fédéral appelle cela une économie ; les communes, une facture.",
+   "ancre": "activation",
+   "sources": [
+    "moustique-20260925"
+   ]
+  },
+  {
+   "terme": "Aide alimentaire",
+   "definition": "Seul poste du budget fédéral à avoir dépassé ses objectifs d'austérité : de 40 à 15 millions d'euros, soit −62,5 %, au moment où les demandes bondissent de 73 %. On ne pourra pas dire que personne ne se serre la ceinture.",
+   "ancre": "aide-alimentaire",
+   "sources": [
+    "guidesocial-aide-alim",
+    "rtbf-aide-alimentaire"
+   ]
+  },
+  {
+   "terme": "Ampoule",
+   "definition": "Objet que le CD&V jurait d'avaler plutôt que de supprimer l'avantage des voitures de société. Bilan à ce jour : aucune ampoule avalée, aucun avantage supprimé. La promesse est donc techniquement tenue.",
+   "ancre": "ampoule",
+   "sources": [
+    "vrt-liveblog-mahdi,bt-20260909"
+   ]
+  },
+  {
+   "terme": "Aucune",
+   "definition": "Nombre de nouvelles taxes, une fois qu'on a voté les précédentes : plus-values, comptes-titres, banques, colis, accises. Les économistes interrogés jugent la promesse « totalement irréaliste », ce qui, en politique, n'a jamais empêché personne.",
+   "ancre": "aucune",
+   "sources": [
+    "dh-20251211-taxe,bt-20251124"
+   ]
+  },
+  {
+   "terme": "Conclave",
+   "definition": "Réunion de week-end dont on attend une fumée blanche et qui produit surtout des fuites dans la presse du lundi. Contrairement au modèle romain, les participants ne sont pas enfermés : ils sortent régulièrement pour dire du mal des autres.",
+   "ancre": "conclave",
+   "sources": [
+    "lalibre-20260921,lalibre-20260929-vampires"
+   ]
+  },
+  {
+   "terme": "Cour des comptes",
+   "definition": "Institution chargée de relire les budgets et de gâcher l'ambiance. Elle a notamment remarqué que le budget comptait sur un tiers d'exclus retrouvant un emploi, quand la Banque nationale en attend 10 à 20 %. Personne ne l'invite plus aux conclaves.",
+   "ancre": "cour-des-comptes",
+   "sources": [
+    "ccomptes-rtbf"
+   ]
+  },
+  {
+   "terme": "Diesel",
+   "definition": "Carburant à plus de 2,50 € le litre en septembre 2026. Premier indicateur de la législature à avoir connu un redressement spectaculaire.",
+   "ancre": "diesel",
+   "sources": [
+    "lavenir-20260921-diesel"
+   ]
+  },
+  {
+   "terme": "Épaules les plus larges",
+   "definition": "Partie de l'anatomie nationale censée porter l'effort. Dans l'accord de novembre 2025, elles portent 912 millions ; les malades de longue durée, 1,9 milliard. Conclusion anatomique : en Belgique, les épaules les plus larges se situent au niveau des genoux des plus fragiles.",
+   "ancre": "epaules-les-plus-larges",
+   "sources": [
+    "bt-20251124"
+   ]
+  },
+  {
+   "terme": "Fraude (lutte contre la)",
+   "definition": "Recette de 600 millions d'euros inscrite au budget, dont la Cour des comptes cherche encore la méthode de calcul. Sa principale propriété : elle rapporte exactement ce qu'il manque.",
+   "ancre": "fraude-lutte-contre-la",
+   "sources": [
+    "ccomptes-rtbf"
+   ]
+  },
+  {
+   "terme": "Gâteau",
+   "definition": "Pâtisserie qu'il faut « d'abord cuire avant de la partager » (traduction). Temps de cuisson : vingt mois ; croissance attendue en 2026 : 0,7 %. Il est conseillé de vérifier si le four est branché, et qui a déjà mangé les parts.",
+   "ancre": "gateau",
+   "sources": [
+    "rtbf-20251126",
+    "lalibre-20260901"
+   ]
+  },
+  {
+   "terme": "GRECO",
+   "definition": "Club européen de lutte contre la corruption, dont la Belgique fréquente assidûment le fond de la classe : 8 recommandations pleinement appliquées sur 22, progrès « minimes » au sommet de l'exécutif. Le bulletin est à remettre pour le 30 novembre 2026. Le chien a mangé le devoir.",
+   "ancre": "greco",
+   "sources": [
+    "greco-20260106"
+   ]
+  },
+  {
+   "terme": "Héraclès",
+   "definition": "Demi-dieu grec, auteur de douze travaux, auquel le Premier ministre compare son gouvernement. Fitch, Moody's et S&P ont dégradé la note belge en dix mois : trois travaux, trois dégradations. Héraclès, lui, avait nettoyé les écuries.",
+   "ancre": "heracles",
+   "sources": [
+    "rtbf-20251126",
+    "bloomberg-fitch-2025,rtbf-moodys,te-sp-20260424"
+   ]
+  },
+  {
+   "terme": "Index en cents",
+   "definition": "Mécanisme qui indexe votre salaire au centime près, à l'exception des centimes situés au-delà de 4 000 € brut. L'opposition parle d'« usine à gaz » ; l'usine, au moins, serait indexée.",
+   "ancre": "index-en-cents",
+   "sources": [
+    "securex-20260602-index",
+    "rtbf-usine-gaz"
+   ]
+  },
+  {
+   "terme": "Kern",
+   "definition": "Cercle restreint où se prennent toutes les décisions importantes. À la formation du gouvernement : zéro femme, soit une parité parfaite entre hommes et hommes. C'est là qu'ont été arbitrées les réformes qui pèsent le plus sur les pensions des femmes.",
+   "ancre": "kern",
+   "sources": [
+    "rtbf-ministres-2025",
+    "lavenir-20260413-fpb"
+   ]
+  },
+  {
+   "terme": "Lasagne",
+   "definition": "Méthode budgétaire consistant à empiler des couches, une par parti, puis à s'étonner que le plat soit jugé « indigeste » par deux convives sur cinq. Recette belge : ne jamais demander qui fait la vaisselle.",
+   "ancre": "lasagne",
+   "sources": [
+    "bt-20260909,lalibre-20260921"
+   ]
+  },
+  {
+   "terme": "Mille euros",
+   "definition": "Somme nette annuelle promise à chaque travailleur d'ici 2030, dont la dernière tranche est livrée après les élections de 2029. Comme un colis, mais sans suivi. (Le colis, lui, est taxé.)",
+   "ancre": "mille-euros",
+   "sources": [
+    "rtbf-20251126",
+    "bt-20251124"
+   ]
+  },
+  {
+   "terme": "Minerval",
+   "definition": "Droit d'inscription porté à 1 194 € pour une majorité d'étudiants en Fédération Wallonie-Bruxelles. Bonne nouvelle : on peut désormais travailler dès 15 ans, jusqu'à 650 heures par an. Le système a pensé à tout.",
+   "ancre": "minerval",
+   "sources": [
+    "rtbf-20260605-fwb",
+    "dh-20260907-etudiants"
+   ]
+  },
+  {
+   "terme": "Microfissure",
+   "definition": "Détail technique sans importance lorsqu'on s'apprête à racheter sept réacteurs sans en connaître le prix. Le Premier ministre parle d'« un investissement qui rapporte » ; les réacteurs à l'arrêt depuis des années, eux, ne rapportent rien.",
+   "ancre": "microfissure",
+   "sources": [
+    "rtbf-nucleaire-couteux",
+    "dh-20260430-nucleaire",
+    "lavenir-20260430-nucleaire"
+   ]
+  },
+  {
+   "terme": "Nationalité",
+   "definition": "Bien de luxe : 1 000 € au lieu de 150 €, et indexé chaque année. Contrairement aux salaires au-delà de 4 000 €, lui.",
+   "ancre": "nationalite",
+   "sources": [
+    "emn-20250718-nationalite"
+   ]
+  },
+  {
+   "terme": "Nuit",
+   "definition": "Période comprise entre 20 h et 6 h, désormais ouverte au travail dans l'e-commerce ; pour les nouveaux engagés, la prime de nuit ne commence plus qu'à 23 h. Votre colis arrive plus vite. Votre sommeil, moins.",
+   "ancre": "nuit",
+   "sources": [
+    "synova-20260504-travail"
+   ]
+  },
+  {
+   "terme": "Plafond",
+   "definition": "Élément d'architecture très prisé de l'Arizona : index plafonné, préavis plafonné à 52 semaines. Il n'existe en revanche aucun plafond aux plus-values exonérées accumulées avant 2026. Question de hauteur sous plafond.",
+   "ancre": "plafond",
+   "sources": [
+    "securex-20260602-index,synova-20260504-travail",
+    "rsm-plusvalues"
+   ]
+  },
+  {
+   "terme": "Plus-value",
+   "definition": "Gain taxé à 10 % au-delà de 10 000 € par an, ou à environ 1,6 % si vous vendez votre société avec 5 millions de plus-value. À comparer aux 110 € net perdus chaque année par un salarié à 5 000 € brut avec l'index plafonné. Chacun porte l'effort à sa mesure.",
+   "ancre": "plus-value",
+   "sources": [
+    "rsm-plusvalues",
+    "rtbf-20251124-index"
+   ]
+  },
+  {
+   "terme": "Redressement",
+   "definition": "Mouvement consistant à faire passer le déficit d'environ 4,5 % à 5,2 % du PIB. En gymnastique, cela porte un autre nom.",
+   "ancre": "redressement",
+   "sources": [
+    "eurostat-20260422,euronews-20251124"
+   ]
+  },
+  {
+   "terme": "Sondage",
+   "definition": "Instrument de mesure du redressement, version électorale : le MR passe de 29,6 % à 20,3 % en Wallonie. Ici, au moins, la trajectoire est claire.",
+   "ancre": "sondage",
+   "sources": [
+    "lavenir-20260918-sondage,wiki-reg-2024"
+   ]
+  },
+  {
+   "terme": "Structurel",
+   "definition": "Se dit d'une réforme dont l'essentiel des effets est attendu vers 2070, c'est-à-dire bien après la retraite de ceux qui l'ont votée. Pour une fois, les générations futures sont vraiment concernées.",
+   "ancre": "structurel",
+   "sources": [
+    "lavenir-20260413-fpb"
+   ]
+  },
+  {
+   "terme": "Taxe d'embarquement",
+   "definition": "Impôt fixé par le gouvernement fédéral après consultation approfondie d'une compagnie aérienne irlandaise : prévue à 10 €, ramenée à 7 €. La souveraineté budgétaire, version low-cost, bagage en soute non compris.",
+   "ancre": "taxe-d-embarquement",
+   "sources": [
+    "lalibre-20260720-ryanair"
+   ]
+  },
+  {
+   "terme": "Vampire",
+   "definition": "Selon le président du MR, désigne les syndicats et les mutualités, « vampires d'argent public ». Ne pas confondre avec le F-35 : 1,67 milliard pour onze appareils, soit environ 150 millions pièce, mais il ne boit que du kérosène.",
+   "ancre": "vampire",
+   "sources": [
+    "lalibre-20260929-vampires",
+    "lalibre-20260122-f35,rtbf-vision-defense"
+   ]
+  },
+  {
+   "terme": "Victoire",
+   "definition": "Situation où « tout le monde peut quitter cette salle victorieux », y compris le budget belge, qui conserve environ un milliard d'euros de recettes annuelles tirées des avoirs russes. Une victoire à plusieurs, dont une plus rentable.",
+   "ancre": "victoire",
+   "sources": [
+    "vrt-fr-20251219-euroclear",
+    "lalibre-20251204-euroclear"
+   ]
+  }
+ ]
+}
